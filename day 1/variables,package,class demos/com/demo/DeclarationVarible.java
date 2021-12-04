@@ -6,11 +6,16 @@ public class DeclarationVarible {
 
 		int number1 = 20;
 		int number2 = 10;
-		int result;
+		int addresult;
+		int subresult;
 
-		result = number1 + number2; // add logic
+		
+		
+		
 
-		System.out.print(" sum of two numbers  " + result);
+		
+		
+		//System.out.print( "sub of two numbers "+subresult);
 
 	}
 
